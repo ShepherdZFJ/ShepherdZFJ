@@ -4,7 +4,7 @@ I’m Shepherd，keep learning , together? :smile: :sparkling_heart: :star:  :ci
 
 
 - :love_letter: Email: shepherd_zfj@163.com
-- :speech_balloon: Wechat: ShepherdZFJ
+- :speech_balloon: Wechat: ShpherdZFJ
 - 🏠 Home Page: http://blog.shepherd126.top
 - :house_with_garden: Official Account：
 - <img src="https://markdown-file-zfj.oss-cn-hangzhou.aliyuncs.com/Official%20Account.jpg" style="zoom: 10%;" />
